@@ -1,0 +1,87 @@
+# Object files
+*.o
+*.obj
+*.so
+*.ko
+*.lo
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.def
+*.exp
+
+# Binary and Executable files
+*.exe
+*.out
+*.dll
+*.so
+*.ipa
+*.apk
+*.elf
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# Editor backups and temporary files
+*~
+*.swp
+*.tmp
+*.temp
+
+# IDE-specific files
+.vscode/
+*.code-workspace
+*.idea/
+*.project
+*.cproject
+*.settings/
+
+# Build directories
+build/
+bin/
+obj/
+
+# Dependency directories (uncomment if you use dependency management tools)
+# deps/
+
+# Version control system directories
+.git/
+.svn/
+.hg/
+
+# Configuration files
+*.conf
+
+# Log files
+*.log
+
+# Archive files
+*.tar
+*.tar.gz
+*.zip
+*.rar
+
+# Other files to ignore
+*.bak
+*.off
+*.old
+*.tmp
